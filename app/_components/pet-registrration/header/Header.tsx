@@ -8,7 +8,7 @@ export function Header() {
                 alt="Biovet Logo"
                 width={50}
                 height={60}
-                className="drop-shadow-lg h-auto"
+                className="drop-shadow-lgh-20 w-auto"
             />
             
             <div className="flex flex-col justify-center">
@@ -20,7 +20,7 @@ export function Header() {
                 alt="Biovet Logo"
                 width={50}
                 height={60}
-                className="drop-shadow-lg h-auto"
+                className="drop-shadow-lgh-20 w-auto"
             />
         </header>
     )
