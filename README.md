@@ -80,26 +80,6 @@ Além do cadastro das informações do pet, o sistema aplica validações em tem
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```text
-src/
-│
-├── app/
-├── components/
-│   ├── ui/
-│   └── forms/
-├── schemas/
-├── types/
-├── hooks/
-├── lib/
-└── utils/
-```
-
-A arquitetura foi organizada para facilitar manutenção, escalabilidade e reutilização de componentes.
-
----
-
 ## ⚙️ Como Executar o Projeto
 
 ### Clone o repositório
@@ -117,23 +97,14 @@ cd pet-registration-form
 ### Instale as dependências
 
 ```bash
-npm install
+pnpm install
 ```
 
 ### Execute o projeto
 
 ```bash
-npm run dev
+pnpm run dev
 ```
-
-Abra:
-
-```bash
-http://localhost:3000
-```
-
----
-
 ## 🎯 Conceitos Aplicados
 
 Durante o desenvolvimento deste projeto foram aplicados conceitos fundamentais do desenvolvimento Front-end moderno:
