@@ -11,7 +11,7 @@ https://github.com/jmininel/pet-registration-form
 
 ---
 
-## 📷 Preview
+## Preview
 
 ![Preview do Portfólio](./public/petRegistration.gif)
 
