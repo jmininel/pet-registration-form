@@ -139,3 +139,8 @@ Este projeto proporcionou experiência prática em diversos aspectos do ecossist
 * Aplicação de padrões modernos de desenvolvimento Front-end
 * Desenvolvimento Mobile First
 * Melhoria da experiência do usuário através de feedback visual e validações em tempo real
+
+  ## Autoria
+
+**Juliana Mininel** · Frontend Developer
+
