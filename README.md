@@ -140,7 +140,9 @@ Este projeto proporcionou experiência prática em diversos aspectos do ecossist
 * Desenvolvimento Mobile First
 * Melhoria da experiência do usuário através de feedback visual e validações em tempo real
 
-  ## Autoria
+## 👩‍💻 Desenvolvido por
 
-**Juliana Mininel** · Frontend Developer
+**Juliana Mininel**
+
+Frontend Developer • React • Next.js • TypeScript
 
